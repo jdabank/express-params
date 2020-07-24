@@ -9,7 +9,6 @@ This demo will walk you through using parameters with Express.
 1.  Fork and clone this repository.
 1.  Change into the new directory.
 1.  Install dependencies.
-1.  Create and checkout a new branch to work on.
 1.  Fulfill the listed requirements.
 
 ## Instructions
